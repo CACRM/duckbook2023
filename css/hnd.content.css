@@ -1,0 +1,1413 @@
+/* ========== Text Styles ========== */
+hr { color: #000000}
+.main-content, .main-content table span.rvts0 /* Normal text */
+{
+ font-size: 10pt;
+ font-family: 'Arial', 'Helvetica', sans-serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts1 /* Heading */
+{
+ font-weight: bold;
+ color: #0000ff;
+}
+span.rvts2 /* Subheading */
+{
+ font-weight: bold;
+ color: #000080;
+}
+span.rvts3 /* Keywords */
+{
+ font-style: italic;
+ color: #800000;
+}
+a.rvts4, span.rvts4 /* Jump 1 */
+{
+ color: #008000;
+ text-decoration: underline;
+}
+a.rvts5, span.rvts5 /* Jump 2 */
+{
+ color: #008000;
+ text-decoration: underline;
+}
+span.rvts6
+{
+}
+span.rvts7
+{
+ font-weight: bold;
+ color: #0000ff;
+}
+span.rvts8
+{
+ font-weight: bold;
+ color: #000080;
+}
+span.rvts9
+{
+ font-style: italic;
+ color: #800000;
+}
+a.rvts10, span.rvts10
+{
+ color: #008000;
+ text-decoration: underline;
+}
+span.rvts11
+{
+}
+span.rvts12
+{
+ font-size: 16pt;
+ font-weight: bold;
+}
+span.rvts13
+{
+ font-weight: bold;
+}
+span.rvts14
+{
+ font-size: 16pt;
+ font-weight: bold;
+}
+span.rvts15
+{
+ font-weight: bold;
+ text-decoration: underline;
+}
+span.rvts16
+{
+ font-style: italic;
+}
+span.rvts17
+{
+ font-size: 11pt;
+}
+a.rvts18, span.rvts18
+{
+ font-size: 11pt;
+ font-weight: bold;
+ color: #0000ff;
+ text-decoration: underline;
+}
+span.rvts19
+{
+ font-size: 11pt;
+ font-weight: bold;
+}
+span.rvts20
+{
+ font-size: 11pt;
+ font-style: italic;
+ font-weight: bold;
+}
+span.rvts21
+{
+}
+span.rvts22
+{
+ font-weight: bold;
+}
+span.rvts23
+{
+ font-style: italic;
+ font-weight: bold;
+}
+span.rvts24
+{
+ font-size: 11pt;
+ font-weight: bold;
+ color: #0000ff;
+}
+span.rvts25
+{
+ font-size: 11pt;
+ font-weight: bold;
+}
+span.rvts26
+{
+ font-size: 11pt;
+}
+span.rvts27
+{
+ font-size: 11pt;
+}
+span.rvts28
+{
+ font-size: 11pt;
+ font-style: italic;
+ font-weight: bold;
+ background-color: #cdffcd;
+}
+span.rvts29
+{
+ font-size: 12pt;
+ font-style: italic;
+ font-weight: bold;
+}
+span.rvts30
+{
+ font-size: 11pt;
+ font-style: italic;
+}
+a.rvts31, span.rvts31
+{
+ font-size: 11pt;
+ font-weight: bold;
+ color: #0000ff;
+ text-decoration: underline;
+}
+span.rvts32
+{
+ font-size: 11pt;
+ color: #0000ff;
+}
+span.rvts33
+{
+ font-size: 11pt;
+ text-decoration: underline;
+}
+span.rvts34
+{
+ font-size: 11pt;
+ font-style: italic;
+ text-decoration: underline;
+}
+span.rvts35
+{
+ font-size: 11pt;
+ font-style: italic;
+ font-weight: bold;
+}
+span.rvts36
+{
+ font-size: 11pt;
+ font-style: italic;
+ font-weight: bold;
+ background-color: #cdffcd;
+}
+span.rvts37
+{
+ font-size: 12pt;
+ font-style: italic;
+ font-weight: bold;
+ background-color: #cdffcd;
+}
+span.rvts38
+{
+ font-size: 13pt;
+ font-weight: bold;
+}
+span.rvts39
+{
+ font-size: 11pt;
+ font-weight: bold;
+ color: #ffffff;
+ background-color: #00b050;
+}
+a.rvts40, span.rvts40
+{
+ font-size: 11pt;
+ font-weight: bold;
+ color: #0000ff;
+ text-decoration: underline;
+}
+span.rvts41
+{
+ font-size: 11pt;
+ font-style: italic;
+}
+span.rvts42
+{
+ font-size: 11pt;
+ font-style: italic;
+ font-weight: bold;
+}
+span.rvts43
+{
+ font-size: 11pt;
+ font-weight: bold;
+}
+span.rvts44
+{
+ font-size: 11pt;
+ font-weight: bold;
+ text-decoration: underline;
+}
+span.rvts45
+{
+ font-size: 11pt;
+ font-family: 'Arial Unicode MS', 'Arial', 'Helvetica', sans-serif;
+ font-weight: bold;
+}
+span.rvts46
+{
+ font-size: 11pt;
+ font-weight: bold;
+}
+span.rvts47
+{
+ font-size: 11pt;
+}
+span.rvts48
+{
+ font-weight: bold;
+ text-decoration: underline;
+}
+span.rvts49
+{
+ font-size: 11pt;
+ background-color: #ffff00;
+}
+span.rvts50
+{
+ font-size: 11pt;
+ color: #ff0000;
+}
+span.rvts51
+{
+ font-size: 7pt;
+ vertical-align: super;
+}
+span.rvts52
+{
+}
+span.rvts53
+{
+ font-style: italic;
+ font-weight: bold;
+}
+span.rvts54
+{
+ font-style: italic;
+}
+span.rvts55
+{
+ font-size: 11pt;
+ font-weight: bold;
+ color: #0070c0;
+}
+span.rvts56
+{
+ font-size: 11pt;
+ font-style: italic;
+ background-color: #cdffcd;
+}
+span.rvts57
+{
+ font-size: 11pt;
+ background-color: #cdffcd;
+}
+span.rvts58
+{
+ font-size: 11pt;
+ background-color: #00ffff;
+}
+span.rvts59
+{
+ font-size: 11pt;
+ color: #000000;
+}
+span.rvts60
+{
+ font-size: 11pt;
+ font-style: italic;
+}
+span.rvts61
+{
+ text-decoration: underline;
+}
+a.rvts62, span.rvts62
+{
+ font-weight: bold;
+ color: #0000ff;
+ text-decoration: underline;
+}
+span.rvts63
+{
+ background-color: #00ffff;
+}
+span.rvts64
+{
+ font-style: italic;
+ text-decoration: underline;
+}
+span.rvts65
+{
+ font-size: 11pt;
+ font-style: italic;
+ font-weight: bold;
+}
+a.rvts66, span.rvts66
+{
+ font-size: 11pt;
+ font-weight: bold;
+ color: #0000ff;
+ text-decoration: underline;
+}
+span.rvts67
+{
+ font-size: 14pt;
+ font-style: italic;
+ font-weight: bold;
+}
+span.rvts68
+{
+ font-size: 11pt;
+ font-weight: bold;
+ text-decoration: underline;
+}
+span.rvts69
+{
+ font-size: 11pt;
+ color: #0000ff;
+}
+span.rvts70
+{
+ font-weight: bold;
+ color: #0000ff;
+}
+span.rvts71
+{
+ font-size: 11pt;
+ font-weight: bold;
+ color: #3366ff;
+}
+span.rvts72
+{
+ text-decoration: underline;
+}
+span.rvts73
+{
+ font-style: italic;
+ font-weight: bold;
+ background-color: #cdffcd;
+}
+span.rvts74
+{
+ font-style: italic;
+ font-weight: bold;
+ background-color: #cdffcd;
+}
+span.rvts75
+{
+ font-size: 11pt;
+ font-weight: bold;
+ color: #000000;
+}
+span.rvts76
+{
+ font-family: 'Times';
+}
+span.rvts77
+{
+ font-size: 11pt;
+ font-weight: bold;
+ color: #0000ff;
+ text-decoration: underline;
+}
+span.rvts78
+{
+ font-size: 11pt;
+ font-style: italic;
+ font-weight: bold;
+ text-decoration: underline;
+}
+span.rvts79
+{
+ font-size: 12pt;
+ font-style: italic;
+}
+span.rvts80
+{
+ font-size: 11pt;
+ font-weight: bold;
+ color: #0000ff;
+}
+span.rvts81
+{
+ font-size: 11pt;
+ font-family: 'Calibri';
+ font-weight: bold;
+}
+a.rvts82, span.rvts82
+{
+ font-size: 11pt;
+ color: #0000ff;
+ text-decoration: underline;
+}
+span.rvts83
+{
+ font-size: 11pt;
+ font-weight: bold;
+ color: #0000ff;
+}
+span.rvts84
+{
+ font-size: 11pt;
+ text-decoration: underline;
+}
+a.rvts85, span.rvts85
+{
+ font-size: 11pt;
+ font-weight: bold;
+ color: #0000ff;
+ text-decoration: underline;
+}
+span.rvts86
+{
+ font-size: 11pt;
+ font-style: italic;
+ font-weight: bold;
+ background-color: #cdffcd;
+}
+span.rvts87
+{
+ font-size: 11pt;
+ text-decoration: underline;
+}
+span.rvts88
+{
+ font-size: 10.5pt;
+ font-family: '_[5µò';
+ color: #0563c2;
+}
+a.rvts89, span.rvts89
+{
+ font-size: 11pt;
+ font-weight: bold;
+ color: #0000ff;
+ text-decoration: none;
+}
+span.rvts90
+{
+ font-size: 10.5pt;
+ font-family: '_[5µò';
+ color: #0563c2;
+}
+span.rvts91
+{
+ font-size: 11pt;
+ font-style: italic;
+ color: #0000ff;
+}
+span.rvts92
+{
+ font-size: 11pt;
+ font-style: italic;
+ color: #0000ff;
+ text-decoration: underline;
+}
+span.rvts93
+{
+ font-size: 11pt;
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+}
+span.rvts94
+{
+ font-size: 11pt;
+ color: #0000ff;
+ text-decoration: underline;
+}
+span.rvts95
+{
+ color: #0000ff;
+}
+span.rvts96
+{
+ font-size: 11pt;
+ font-style: italic;
+ font-weight: bold;
+ background-color: #cdffcd;
+}
+span.rvts97
+{
+ font-size: 11pt;
+ text-decoration: underline;
+}
+a.rvts98, span.rvts98
+{
+ color: #0000ff;
+ text-decoration: underline;
+}
+span.rvts99
+{
+ color: #000000;
+}
+span.rvts100
+{
+ font-style: italic;
+ color: #000000;
+}
+span.rvts101
+{
+ color: #0000ff;
+}
+span.rvts102
+{
+ font-size: 11pt;
+ font-weight: bold;
+ color: #17385f;
+}
+span.rvts103
+{
+ font-size: 11pt;
+ color: #000000;
+ text-decoration: underline;
+}
+a.rvts104, span.rvts104
+{
+ font-size: 11pt;
+ font-weight: bold;
+ color: #0000ff;
+ text-decoration: none;
+}
+span.rvts105
+{
+ font-size: 11pt;
+ background-color: #ffffff;
+}
+span.rvts106
+{
+ font-size: 11pt;
+ font-weight: bold;
+ color: #0000ff;
+}
+span.rvts107
+{
+ font-size: 11pt;
+ font-style: italic;
+ background-color: #ffffff;
+}
+span.rvts108
+{
+ font-size: 11pt;
+ font-style: italic;
+ font-weight: bold;
+ background-color: #ffffff;
+}
+span.rvts109
+{
+ font-size: 11pt;
+ background-color: #ffffff;
+}
+span.rvts110
+{
+ font-size: 11pt;
+ font-style: italic;
+ font-weight: bold;
+ background-color: #ffffff;
+}
+span.rvts111
+{
+ font-size: 11pt;
+ font-weight: bold;
+ background-color: #ffffff;
+}
+span.rvts112
+{
+ font-size: 11pt;
+ font-weight: bold;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+span.rvts113
+{
+ font-size: 11pt;
+ font-family: 'Lucida Grande';
+ color: #000000;
+}
+span.rvts114
+{
+ font-size: 11pt;
+ font-weight: bold;
+ background-color: #cdffcd;
+}
+span.rvts115
+{
+ font-size: 11pt;
+ font-weight: bold;
+ text-decoration: underline;
+}
+span.rvts116
+{
+ font-size: 12pt;
+ text-decoration: underline;
+}
+span.rvts117
+{
+ font-size: 11pt;
+ font-weight: bold;
+ color: #1f497d;
+}
+span.rvts118
+{
+ font-size: 12pt;
+}
+span.rvts119
+{
+ font-size: 11pt;
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+}
+a.rvts120, span.rvts120
+{
+ font-size: 11pt;
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ text-decoration: none;
+}
+span.rvts121
+{
+ font-size: 12pt;
+ font-weight: bold;
+ color: #0000ff;
+}
+span.rvts122
+{
+ background-color: #ffff00;
+}
+span.rvts123
+{
+ font-style: italic;
+ font-weight: bold;
+ background-color: #ffff00;
+}
+a.rvts124, span.rvts124
+{
+ font-size: 11pt;
+ font-weight: bold;
+ color: #0000ff;
+ text-decoration: none;
+}
+span.rvts125
+{
+ font-size: 12pt;
+}
+span.rvts126
+{
+ font-size: 12pt;
+ font-style: italic;
+ font-weight: bold;
+ background-color: #ccffcc;
+}
+span.rvts127
+{
+ font-weight: bold;
+ color: #0000ff;
+ text-decoration: underline;
+}
+span.rvts128
+{
+ color: #00b0f0;
+}
+span.rvts129
+{
+ font-size: 12pt;
+ font-weight: bold;
+}
+span.rvts130
+{
+ font-size: 12pt;
+ font-style: italic;
+ font-weight: bold;
+ text-transform: uppercase;
+}
+span.rvts131 /* Font Style */
+{
+ font-family: 'Tahoma', 'Geneva', sans-serif;
+ font-style: italic;
+ color: #c0c0c0;
+}
+a.rvts132, span.rvts132 /* Font Style */
+{
+ font-family: 'Tahoma', 'Geneva', sans-serif;
+ font-style: italic;
+ color: #6666ff;
+ text-decoration: underline;
+}
+span.rvts133
+{
+ font-size: 14pt;
+ font-weight: bold;
+}
+span.rvts134
+{
+ font-size: 12pt;
+ font-weight: bold;
+}
+span.rvts135
+{
+}
+span.rvts136
+{
+ font-size: 7pt;
+ vertical-align: super;
+}
+span.rvts137
+{
+ font-style: italic;
+ font-weight: bold;
+}
+span.rvts138
+{
+ font-weight: bold;
+}
+a.rvts139, span.rvts139
+{
+ font-family: 'Times New Roman', 'Times', serif;
+ font-weight: bold;
+ color: #0000ff;
+ text-decoration: underline;
+}
+span.rvts140
+{
+ text-decoration: underline;
+}
+span.rvts141
+{
+ font-style: italic;
+}
+a.rvts142, span.rvts142
+{
+ font-family: 'Times New Roman', 'Times', serif;
+ font-weight: bold;
+ color: #0000ff;
+ text-decoration: underline;
+}
+span.rvts143
+{
+ background-color: #ffffff;
+}
+a.rvts144, span.rvts144
+{
+ color: #0000ff;
+ text-decoration: underline;
+}
+span.rvts145
+{
+ color: #212121;
+}
+span.rvts146
+{
+ font-size: 12pt;
+ font-style: italic;
+ font-weight: bold;
+}
+span.rvts147
+{
+ font-size: 12pt;
+ font-style: italic;
+ font-weight: bold;
+}
+span.rvts148
+{
+ font-size: 12pt;
+ font-style: italic;
+ font-weight: bold;
+ color: #212121;
+}
+a.rvts149, span.rvts149
+{
+ font-weight: bold;
+ color: #0000ff;
+ text-decoration: underline;
+}
+span.rvts150
+{
+ color: #000000;
+}
+span.rvts151
+{
+ font-size: 12pt;
+ font-style: italic;
+ font-weight: bold;
+ color: #000000;
+}
+span.rvts152
+{
+ font-weight: bold;
+ color: #000000;
+}
+span.rvts153
+{
+ font-size: 16pt;
+ font-weight: bold;
+}
+a.rvts154, span.rvts154
+{
+ font-size: 11pt;
+ font-weight: bold;
+ color: #0000ff;
+ text-decoration: underline;
+}
+span.rvts155
+{
+ font-size: 11pt;
+ color: #0000ff;
+}
+span.rvts156
+{
+ font-size: 11pt;
+ font-style: italic;
+ text-decoration: underline;
+}
+span.rvts157
+{
+ font-size: 11pt;
+ font-weight: bold;
+ color: #ffffff;
+ background-color: #00b050;
+}
+span.rvts158
+{
+ font-size: 11pt;
+ font-family: 'Arial Unicode MS', 'Arial', 'Helvetica', sans-serif;
+ font-weight: bold;
+}
+span.rvts159
+{
+ font-size: 11pt;
+ background-color: #ffff00;
+}
+span.rvts160
+{
+ font-size: 11pt;
+ color: #ff0000;
+}
+span.rvts161
+{
+ font-size: 7pt;
+ vertical-align: super;
+}
+span.rvts162
+{
+ font-size: 11pt;
+ font-weight: bold;
+ color: #0070c0;
+}
+span.rvts163
+{
+ font-size: 11pt;
+ font-style: italic;
+ background-color: #cdffcd;
+}
+span.rvts164
+{
+ font-size: 11pt;
+ background-color: #cdffcd;
+}
+span.rvts165
+{
+ font-size: 11pt;
+ background-color: #00ffff;
+}
+span.rvts166
+{
+ font-size: 11pt;
+ color: #000000;
+}
+span.rvts167
+{
+ font-size: 11pt;
+ color: #0000ff;
+}
+span.rvts168
+{
+ font-size: 11pt;
+ font-weight: bold;
+ color: #3366ff;
+}
+span.rvts169
+{
+ font-size: 11pt;
+ font-weight: bold;
+ color: #000000;
+}
+span.rvts170
+{
+ font-family: 'Times';
+}
+span.rvts171
+{
+ font-size: 11pt;
+ font-weight: bold;
+ color: #0000ff;
+ text-decoration: underline;
+}
+span.rvts172
+{
+ font-size: 11pt;
+ font-style: italic;
+ font-weight: bold;
+ text-decoration: underline;
+}
+span.rvts173
+{
+ font-size: 11pt;
+ font-weight: bold;
+ color: #0000ff;
+}
+span.rvts174
+{
+ font-size: 11pt;
+ font-family: 'Calibri';
+ font-weight: bold;
+}
+a.rvts175, span.rvts175
+{
+ font-size: 11pt;
+ color: #0000ff;
+ text-decoration: underline;
+}
+a.rvts176, span.rvts176
+{
+ font-size: 11pt;
+ font-weight: bold;
+ color: #0000ff;
+ text-decoration: none;
+}
+span.rvts177
+{
+ font-size: 10.5pt;
+ font-family: '_[5µò';
+ color: #0563c2;
+}
+span.rvts178
+{
+ font-size: 11pt;
+ font-style: italic;
+ color: #0000ff;
+}
+span.rvts179
+{
+ font-size: 11pt;
+ font-style: italic;
+ color: #0000ff;
+ text-decoration: underline;
+}
+span.rvts180
+{
+ font-size: 11pt;
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+}
+span.rvts181
+{
+ font-size: 11pt;
+ color: #0000ff;
+ text-decoration: underline;
+}
+span.rvts182
+{
+ font-size: 11pt;
+ font-weight: bold;
+ color: #17385f;
+}
+span.rvts183
+{
+ font-size: 11pt;
+ color: #000000;
+ text-decoration: underline;
+}
+a.rvts184, span.rvts184
+{
+ font-size: 11pt;
+ font-weight: bold;
+ color: #0000ff;
+ text-decoration: none;
+}
+span.rvts185
+{
+ font-size: 11pt;
+ font-family: 'Lucida Grande';
+ color: #000000;
+}
+span.rvts186
+{
+ font-size: 11pt;
+ font-weight: bold;
+ background-color: #cdffcd;
+}
+span.rvts187
+{
+ font-size: 11pt;
+ font-weight: bold;
+ color: #1f497d;
+}
+a.rvts188, span.rvts188
+{
+ font-size: 11pt;
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ text-decoration: none;
+}
+/* ========== Para Styles ========== */
+p,ul,ol /* Paragraph Style */
+{
+ text-align: left;
+ text-indent: 0px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps1 /* Centered */
+{
+ text-align: center;
+}
+.rvps2
+{
+}
+.rvps3
+{
+ text-align: center;
+}
+.rvps4
+{
+}
+.rvps5
+{
+ text-align: center;
+ margin: 16px 0px 16px 0px;
+}
+.rvps6
+{
+ text-align: left;
+ text-indent: 0px;
+ page-break-after: avoid;
+ padding: 0px 0px 0px 0px;
+ margin: 16px 0px 4px 0px;
+}
+.rvps7
+{
+}
+.rvps8
+{
+}
+.rvps9
+{
+ text-indent: -12px;
+ padding: 0px 0px 0px 12px;
+ margin: 0px 0px 0px 1px;
+}
+.rvps10
+{
+ margin: 0px 0px 0px 6px;
+}
+.rvps11
+{
+ margin: 0px 0px 0px 49px;
+}
+.rvps12
+{
+ margin: 0px 0px 0px 7px;
+}
+.rvps13
+{
+ margin: 0px 0px 0px 48px;
+}
+.rvps14
+{
+ text-align: left;
+ text-indent: 0px;
+ page-break-after: avoid;
+ padding: 0px 0px 0px 0px;
+ margin: 16px 0px 4px 0px;
+}
+.rvps15
+{
+ text-align: justify;
+ text-justify: inter-word;
+ text-align-last: auto;
+}
+.rvps16
+{
+ text-align: left;
+ text-indent: 0px;
+ page-break-after: avoid;
+ padding: 0px 0px 0px 0px;
+ margin: 16px 0px 4px 0px;
+}
+.rvps17
+{
+}
+.rvps18
+{
+ margin: 0px 0px 0px 24px;
+}
+.rvps19
+{
+ text-indent: -24px;
+ padding: 0px 0px 0px 24px;
+}
+.rvps20
+{
+}
+.rvps21
+{
+ page-break-inside: avoid;
+ border-color: #000000;
+ border-style: solid;
+ border-width: 1px;
+ padding: 1px 5px 1px 5px;
+}
+.rvps22
+{
+ page-break-after: avoid;
+}
+.rvps23
+{
+ text-indent: -24px;
+ padding: 0px 0px 0px 24px;
+ margin: 0px 0px 0px 6px;
+}
+.rvps24
+{
+ text-align: left;
+ text-indent: 0px;
+ page-break-after: avoid;
+ padding: 0px 0px 0px 0px;
+ margin: 16px 0px 4px 0px;
+}
+.rvps25
+{
+ page-break-after: avoid;
+}
+.rvps26
+{
+ text-align: center;
+}
+.rvps27
+{
+ margin: 0px 0px 0px 31px;
+}
+.rvps28
+{
+}
+.rvps29
+{
+}
+.rvps30
+{
+}
+.rvps31
+{
+ page-break-inside: avoid;
+ border-color: #000000;
+ border-style: solid;
+ border-width: 1px;
+ padding: 1px 0px 1px 5px;
+}
+.rvps32
+{
+ text-align: left;
+ text-indent: 0px;
+ padding: 0px 0px 0px 0px;
+ margin: 16px 0px 4px 0px;
+}
+.rvps33
+{
+ text-align: left;
+ text-indent: 0px;
+ page-break-inside: avoid;
+ page-break-after: avoid;
+ padding: 0px 0px 0px 0px;
+ margin: 16px 0px 4px 0px;
+}
+.rvps34
+{
+ page-break-inside: avoid;
+ page-break-after: avoid;
+}
+.rvps35
+{
+ margin: 0px 0px 0px 30px;
+}
+.rvps36
+{
+ margin: 0px 0px 0px 24px;
+}
+.rvps37
+{
+}
+.rvps38
+{
+}
+.rvps39
+{
+}
+.rvps40
+{
+ margin: 0px 0px 8px 0px;
+}
+.rvps41
+{
+ margin: 0px 0px 8px 0px;
+}
+.rvps42
+{
+ margin: 0px 0px 0px 73px;
+}
+.rvps43
+{
+}
+.rvps44
+{
+ margin: 0px 0px 0px 40px;
+}
+.rvps45
+{
+ margin: 0px 0px 0px 40px;
+}
+.rvps46
+{
+ margin: 0px 0px 0px 24px;
+}
+.rvps47
+{
+ text-indent: 48px;
+ margin: 0px 0px 0px 96px;
+}
+.rvps48
+{
+}
+.rvps49
+{
+ text-align: left;
+ text-indent: 0px;
+ page-break-after: avoid;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps50
+{
+ text-indent: -24px;
+ padding: 0px 0px 0px 24px;
+ margin: 0px 0px 0px 24px;
+}
+.rvps51 /* Paragraph Style */
+{
+ text-align: center;
+ border-color: #c0c0c0;
+ border-style: solid;
+ border-width: 1px;
+ border-right: none;
+ border-left: none;
+ padding: 2px 0px 2px 0px;
+ margin: 7px 0px 7px 0px;
+}
+.rvps52
+{
+}
+.rvps53
+{
+ text-indent: 48px;
+}
+.rvps54
+{
+ margin: 0px 0px 0px 96px;
+}
+.rvps55
+{
+ text-align: left;
+ text-indent: 0px;
+ page-break-after: avoid;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 4px 0px;
+}
+.rvps56
+{
+ text-indent: 48px;
+ margin: 0px 0px 0px 48px;
+}
+.rvps57
+{
+ margin: 0px 0px 0px 72px;
+}
+.rvps58
+{
+ text-indent: -24px;
+ padding: 0px 0px 0px 24px;
+}
+.rvps59
+{
+ margin: 16px 0px 0px 0px;
+}
+.rvps60
+{
+ text-align: left;
+ text-indent: 0px;
+ page-break-after: avoid;
+ padding: 0px 0px 0px 0px;
+ margin: 16px 0px 4px 0px;
+}
+.rvps61
+{
+ background: #d8d8d8;
+}
+.rvps62
+{
+ text-indent: -24px;
+ padding: 0px 0px 0px 24px;
+ margin: 0px 0px 0px 24px;
+}
+/* ========== Lists ========== */
+.list0 {text-indent: 0px; padding: 0; margin: 0 0 0 72px; list-style-position: outside; list-style-type: disc;}
+.list1 {text-indent: 0px; padding: 0; margin: 0 0 0 29px; list-style-position: outside;}
+.list2 {text-indent: 0px; padding: 0; margin: 0 0 0 9px; list-style-position: outside;}
+.list3 {text-indent: 0px; padding: 0; margin: 0 0 0 10px; list-style-position: outside;}
+.list4 {text-indent: 0px; padding: 0; margin: 0 0 0 48px; list-style-position: outside;}
+.list5 {text-indent: 0px; padding: 0; margin: 0 0 0 24px; list-style-position: outside;}
+.list6 {text-indent: 0px; padding: 0; margin: 0 0 0 24px; list-style-position: outside; list-style-type: lower-alpha;}
+.list7 {text-indent: 0px; padding: 0; margin: 0 0 0 48px; list-style-position: outside; list-style-type: disc;}
+.list8 {text-indent: 0px; padding: 0; margin: 0 0 0 0px; list-style-position: outside;}
+.list9 {text-indent: 0px; padding: 0; margin: 0 0 0 24px; list-style-position: outside; list-style-type: disc;}
+.list10 {text-indent: 0px; padding: 0; margin: 0 0 0 48px; list-style-position: outside; list-style-type: circle;}
+.list11 {text-indent: 0px; padding: 0; margin: 0 0 0 48px; list-style-position: outside; list-style-type: square;}
+.list12 {text-indent: 0px; padding: 0; margin: 0 0 0 96px; list-style-position: outside; list-style-type: circle;}
+.list13 {text-indent: 0px; padding: 0; margin: 0 0 0 -24px; list-style-position: outside;}
+.list14 {text-indent: 0px; padding: 0; margin: 0 0 0 0px; list-style-position: outside; list-style-type: circle;}
+.list15 {text-indent: 0px; padding: 0; margin: 0 0 0 96px; list-style-position: outside;}
+.list16 {text-indent: 0px; padding: 0; margin: 0 0 0 90px; list-style-position: inside;}
+.list17 {text-indent: 0px; padding: 0; margin: 0 0 0 -90px; list-style-position: inside;}
+.list18 {text-indent: 0px; padding: 0; margin: 0 0 0 -24px; list-style-position: inside;}
+.list19 {text-indent: 0px; padding: 0; margin: 0 0 0 0px; list-style-position: inside;}
+.list20 {text-indent: 0px; padding: 0; margin: 0 0 0 110px; list-style-position: outside;}
+.list21 {text-indent: 0px; padding: 0; margin: 0 0 0 -38px; list-style-position: outside;}
+.list22 {text-indent: 0px; padding: 0; margin: 0 0 0 24px; list-style-position: outside; list-style-type: circle;}
+.list23 {text-indent: 0px; padding: 0; margin: 0 0 0 24px; list-style-position: outside; list-style-type: square;}
+.list24 {text-indent: 0px; padding: 0; margin: 0 0 0 6px; list-style-position: outside; list-style-type: circle;}
+.list25 {text-indent: 0px; padding: 0; margin: 0 0 0 90px; list-style-position: outside; list-style-type: disc;}
+.list26 {text-indent: 0px; padding: 0; margin: 0 0 0 144px; list-style-position: outside;}
+.list27 {text-indent: 0px; padding: 0; margin: 0 0 0 -72px; list-style-position: outside;}
+.list28 {text-indent: 0px; padding: 0; margin: 0 0 0 0px; list-style-position: outside; list-style-type: disc;}
+.list29 {text-indent: 0px; padding: 0; margin: 0 0 0 96px; list-style-position: outside; list-style-type: disc;}
+.list30 {text-indent: 0px; padding: 0; margin: 0 0 0 72px; list-style-position: outside; list-style-type: square;}
+.list31 {text-indent: 0px; padding: 0; margin: 0 0 0 0px; list-style-position: outside; list-style-type: square;}
+.list32 {text-indent: 0px; padding: 0; margin: 0 0 0 54px; list-style-position: outside; list-style-type: disc;}
+.list33 {text-indent: 0px; padding: 0; margin: 0 0 0 18px; list-style-position: outside;}
+.list34 {text-indent: 0px; padding: 0; margin: 0 0 0 72px; list-style-position: outside; list-style-type: circle;}
+.list35 {text-indent: 0px; padding: 0; margin: 0 0 0 48px; list-style-position: inside; list-style-type: disc;}
+.list36 {text-indent: 0px; padding: 0; margin: 0 0 0 78px; list-style-position: outside; list-style-type: circle;}
+.list37 {text-indent: 0px; padding: 0; margin: 0 0 0 -6px; list-style-position: outside;}
+.list38 {text-indent: 0px; padding: 0; margin: 0 0 0 62px; list-style-position: outside;}
+.list39 {text-indent: 0px; padding: 0; margin: 0 0 0 -24px; list-style-position: outside; list-style-type: circle;}
+.list40 {text-indent: 0px; padding: 0; margin: 0 0 0 120px; list-style-position: outside; list-style-type: disc;}
+.list41 {text-indent: 0px; padding: 0; margin: 0 0 0 96px; list-style-position: outside; list-style-type: square;}
+.list42 {text-indent: 0px; padding: 0; margin: 0 0 0 53px; list-style-position: outside;}
+.list43 {text-indent: 0px; padding: 0; margin: 0 0 0 67px; list-style-position: outside; list-style-type: circle;}
+.list44 {text-indent: 0px; padding: 0; margin: 0 0 0 48px; list-style-position: outside; list-style-type: lower-alpha;}
+.list45 {text-indent: 0px; padding: 0; margin: 0 0 0 48px; list-style-position: outside; list-style-type: lower-roman;}
+.list46 {text-indent: 0px; padding: 0; margin: 0 0 0 163px; list-style-position: outside;}
+.list47 {text-indent: 0px; padding: 0; margin: 0 0 0 49px; list-style-position: outside; list-style-type: disc;}
+.list48 {text-indent: 0px; padding: 0; margin: 0 0 0 67px; list-style-position: outside; list-style-type: lower-alpha;}
+.list49 {text-indent: 0px; padding: 0; margin: 0 0 0 72px; list-style-position: outside;}
